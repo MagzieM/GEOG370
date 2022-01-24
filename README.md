@@ -1,6 +1,6 @@
 # GEOG370HW2
 
-This is my project.
+My project focuses on an apartment search should I be considered for the research fellowship at Harvard. 
 
 Margaret Vanderford
 
